@@ -1,0 +1,24 @@
+#layout-footer{
+    // position: fixed;
+    // margin-top: 300px;
+    // bottom: 100px;
+    width: 100%;
+    height: 50px;
+    color: white;
+    a{
+        color: white;
+        text-decoration: none;
+    }
+
+    background: grey;
+    padding: 5px 10px;
+    display: flex;
+    // justify-content: flex-start;
+    
+
+    .footer-nav{
+        ul{
+            list-style: none;
+        }
+    }
+}
