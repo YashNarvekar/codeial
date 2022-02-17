@@ -10,8 +10,8 @@ const development ={
             port: 587,
             secure: false,
             auth:{
-                user: 'yash.narvekar01',
-                pass: 'rxltsfzvdsodseym'
+                user: 'yash.narvekar01@gmail.com',
+                pass: 'Yash@8152'
             }
         },
     google_client_id: '1069318262883-tbo9e4a0ljtlq6d2l8veplhgb0a9d6b5.apps.googleusercontent.com',
